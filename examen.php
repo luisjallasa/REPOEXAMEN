@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "aumentamos un comentario al ejemplo<br>"
+echo "<br>aumentamos un comentario al ejemplo</br>"
 ?>
